@@ -1,0 +1,43 @@
+body{
+    background-image:url('https://t3.ftcdn.net/jpg/03/25/38/64/360_F_325386410_7XLHgFBmPH10k0GCUXbikWCAeFFC8145.jpg');
+    background-size: cover;
+}
+img{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    width:300px;
+    height:300px;
+}
+#message-el{
+    margin-top:0px;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    font-size:30px;
+}
+#start-game{
+    display:block;
+    margin:auto;
+    width:300px;
+    height:30px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    color:black;
+    font-weight:bold;
+}
+#new-card{
+    display:block;
+    margin:auto;
+    width:300px;
+    height:30px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    color:black;
+    font-weight:bold;
+}
+div{
+    height:10px;
+}
